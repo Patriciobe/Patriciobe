@@ -35,7 +35,7 @@
 <!-- Estadísticas de GitHub -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Estadísticas de GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patriciobe&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 <!-- Conéctate conmigo -->
