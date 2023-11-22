@@ -39,22 +39,23 @@
 </p>
 
 <!-- Conéctate conmigo -->
+<!-- Conéctate conmigo -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Conéctate conmigo</h2>
 <p align="center" style="color: #333; font-family: 'Arial', sans-serif;">
-  <!-- LinkedIn -->
-  <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <!-- LinkedIn con animación -->
+  <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="animation: swing 1s ease infinite;">
   </a>
   <br>
   
-  <!-- Twitter -->
-  <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <!-- Twitter con animación -->
+  <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="animation: swing 1s ease infinite;">
   </a>
   <br>
   
-  <!-- Teléfono -->
-  <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> +123456789
+  <!-- Teléfono con animación -->
+  <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono" style="animation: swing 1s ease infinite;"> +123456789
   <br>
 
   <!-- WhatsApp con animación -->
@@ -63,9 +64,9 @@
   </a>
   <br>
 
-  <!-- Correo electrónico -->
-  <a href="mailto:correo@ejemplo.com" style="color: #61dafb; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logoColor=white" alt="Correo Electrónico">
+  <!-- Correo electrónico con animación -->
+  <a href="mailto:correo@ejemplo.com" style="color: #61dafb; text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logoColor=white" alt="Correo Electrónico" style="animation: swing 1s ease infinite;">
   </a>
   <br>
 </p>
