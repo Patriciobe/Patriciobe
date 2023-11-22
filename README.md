@@ -1,6 +1,4 @@
 <!-- Header -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
 <h1 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">¡Hola! 👋 Soy Patricio Valdez Benavides</h1>
 
 <!-- Sobre mí -->
@@ -45,31 +43,29 @@
 <p align="center" style="color: #333; font-family: 'Arial', sans-serif;">
   <!-- LinkedIn -->
   <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">
-    <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 10px;"></i> LinkedIn
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <br>
   
   <!-- Twitter -->
   <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none;">
-    <i class="fab fa-twitter" style="font-size: 24px; margin-right: 10px;"></i> Twitter
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <br>
   
   <!-- Teléfono -->
-  <i class="fas fa-phone" style="font-size: 24px; margin-right: 10px;"></i> +123456789
+  <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> +123456789
   <br>
 
   <!-- WhatsApp -->
   <a href="enlace_whatsapp" style="color: #61dafb; text-decoration: none;">
-    <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 10px;"></i> Número de WhatsApp
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <br>
 
   <!-- Correo electrónico -->
   <a href="mailto:correo@ejemplo.com" style="color: #61dafb; text-decoration: none;">
-    <i class="fas fa-envelope" style="font-size: 24px; margin-right: 10px;"></i> Correo Electrónico
+    <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logoColor=white" alt="Correo Electrónico">
   </a>
   <br>
 </p>
-
-
