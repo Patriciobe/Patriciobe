@@ -5,6 +5,7 @@
 <p align="center" style="color: #333; font-size: 18px; font-family: 'Arial', sans-serif;">Soy un apasionado desarrollador de software con experiencia en diversas tecnologías.</p>
 
 <!-- Tecnologías -->
+<!-- Tecnologías -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Tecnologías</h2>
 <p align="center">
   Frontend: 
@@ -15,6 +16,8 @@
   Backend: 
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <br>
   Base de datos: 
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -23,6 +26,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
+
 
 <!-- Proyectos Destacados -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Proyectos Destacados</h2>
