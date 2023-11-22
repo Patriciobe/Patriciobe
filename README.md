@@ -45,33 +45,33 @@
   <!-- LinkedIn -->
   <div style="display: inline-block; margin-right: 15px;">
     <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">
-      <i class="fab fa-linkedin" style="font-size: 24px;"></i> LinkedIn
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
   
   <!-- Twitter -->
   <div style="display: inline-block; margin-right: 15px;">
     <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none;">
-      <i class="fab fa-twitter" style="font-size: 24px;"></i> Twitter
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
   </div>
   
   <!-- Teléfono -->
   <div style="display: inline-block; margin-right: 15px;">
-    <i class="fas fa-phone" style="font-size: 24px;"></i> +123456789
+    <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> +123456789
   </div>
 
   <!-- WhatsApp -->
   <div style="display: inline-block; margin-right: 15px;">
     <a href="enlace_whatsapp" style="color: #61dafb; text-decoration: none;">
-      <i class="fab fa-whatsapp" style="font-size: 24px;"></i> WhatsApp
+      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
   </div>
 
   <!-- Correo electrónico -->
   <div style="display: inline-block; margin-right: 15px;">
     <a href="mailto:correo@ejemplo.com" style="color: #61dafb; text-decoration: none;">
-      <i class="fas fa-envelope" style="font-size: 24px;"></i> Correo Electrónico
+      <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logoColor=white" alt="Correo Electrónico">
     </a>
   </div>
 </div>
