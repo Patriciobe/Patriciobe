@@ -58,11 +58,16 @@
   <br>
 
   <!-- WhatsApp -->
-  <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 10px;"></i> [Número de WhatsApp](enlace_whatsapp)
+  <a href="enlace_whatsapp" style="color: #61dafb; text-decoration: none;">
+    <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 10px;"></i> Número de WhatsApp
+  </a>
   <br>
 
   <!-- Correo electrónico -->
-  <i class="fas fa-envelope" style="font-size: 24px; margin-right: 10px;"></i> [Correo Electrónico](mailto:correo@ejemplo.com)
+  <a href="mailto:correo@ejemplo.com" style="color: #61dafb; text-decoration: none;">
+    <i class="fas fa-envelope" style="font-size: 24px; margin-right: 10px;"></i> Correo Electrónico
+  </a>
   <br>
 </p>
+
 
