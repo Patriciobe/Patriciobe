@@ -1,4 +1,6 @@
 <!-- Header -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
 <h1 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">¡Hola! 👋 Soy Patricio Valdez Benavides</h1>
 
 <!-- Sobre mí -->
