@@ -57,9 +57,9 @@
   <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> +123456789
   <br>
 
-  <!-- WhatsApp -->
-  <a href="enlace_whatsapp" style="color: #61dafb; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <!-- WhatsApp con animación -->
+  <a href="enlace_whatsapp" style="color: #61dafb; text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="animation: swing 1s ease infinite;">
   </a>
   <br>
 
@@ -69,3 +69,17 @@
   </a>
   <br>
 </p>
+
+<style>
+  @keyframes swing {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(10deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+</style>
