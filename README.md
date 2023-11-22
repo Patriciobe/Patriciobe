@@ -44,43 +44,29 @@
 <p align="center" style="color: #333; font-family: 'Arial', sans-serif;">
   <!-- LinkedIn con animación -->
   <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="animation: swing 1s ease infinite;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <br>
   
   <!-- Twitter con animación -->
   <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="animation: swing 1s ease infinite;">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <br>
   
   <!-- Teléfono con animación -->
-  <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono" style="animation: swing 1s ease infinite;"> +123456789
+  <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> +123456789
   <br>
 
   <!-- WhatsApp con animación -->
   <a href="enlace_whatsapp" style="color: #61dafb; text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="animation: swing 1s ease infinite;">
+    <img src="URL_DE_LA_IMAGEN_GIF" alt="WhatsApp">
   </a>
   <br>
 
   <!-- Correo electrónico con animación -->
   <a href="mailto:correo@ejemplo.com" style="color: #61dafb; text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logoColor=white" alt="Correo Electrónico" style="animation: swing 1s ease infinite;">
+    <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logoColor=white" alt="Correo Electrónico">
   </a>
   <br>
 </p>
-
-<style>
-  @keyframes swing {
-    0% {
-      transform: rotate(0deg);
-    }
-    50% {
-      transform: rotate(10deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
-  }
-</style>
