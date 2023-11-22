@@ -41,7 +41,28 @@
 <!-- Conéctate conmigo -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Conéctate conmigo</h2>
 <p align="center" style="color: #333; font-family: 'Arial', sans-serif;">
-  <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">LinkedIn</a>
+  <!-- LinkedIn -->
+  <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 10px;"></i> LinkedIn
+  </a>
   <br>
-  <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none;">Twitter</a>
+  
+  <!-- Twitter -->
+  <a href="enlace_a_tu_perfil_de_twitter" style="color: #61dafb; text-decoration: none;">
+    <i class="fab fa-twitter" style="font-size: 24px; margin-right: 10px;"></i> Twitter
+  </a>
+  <br>
+  
+  <!-- Teléfono -->
+  <i class="fas fa-phone" style="font-size: 24px; margin-right: 10px;"></i> +123456789
+  <br>
+
+  <!-- WhatsApp -->
+  <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 10px;"></i> [Número de WhatsApp](enlace_whatsapp)
+  <br>
+
+  <!-- Correo electrónico -->
+  <i class="fas fa-envelope" style="font-size: 24px; margin-right: 10px;"></i> [Correo Electrónico](mailto:correo@ejemplo.com)
+  <br>
 </p>
+
