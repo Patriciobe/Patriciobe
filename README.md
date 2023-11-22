@@ -58,7 +58,7 @@
   
   <!-- Teléfono -->
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> +123456789
+    <img src="https://img.shields.io/badge/-Teléfono-4CAF50?style=for-the-badge&logoColor=white" alt="Teléfono"> 
   </div>
 
   <!-- WhatsApp -->
