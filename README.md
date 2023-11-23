@@ -54,7 +54,62 @@
 <!-- Conéctate conmigo -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Conéctate conmigo</h2>
 <div align="center" style="color: #333; font-family: 'Arial', sans-serif;">
-  
+ <!-- LinkedIn -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<!-- Twitch -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_twitch" style="color: #6441A4; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+</div>
+
+<!-- Reddit -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_reddit" style="color: #FF4500; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+</div>
+
+<!-- Pinterest -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_pinterest" style="color: #BD081C; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+  </a>
+</div>
+
+<!-- Facebook -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_facebook" style="color: #1877F2; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</div>
+
+<!-- Instagram -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_instagram" style="color: #E4405F; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+<!-- YouTube -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_canal_de_youtube" style="color: #FF0000; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+
+<!-- TikTok -->
+<div style="display: inline-block; margin-right: 15px;">
+  <a href="enlace_a_tu_perfil_de_tiktok" style="color: #000000; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</div>
+
   
   <!-- Twitter -->
   <div style="display: inline-block; margin-right: 15px;">
