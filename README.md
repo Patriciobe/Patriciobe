@@ -54,12 +54,7 @@
 <!-- Conéctate conmigo -->
 <h2 align="center" style="color: #61dafb; font-family: 'Helvetica Neue', sans-serif;">Conéctate conmigo</h2>
 <div align="center" style="color: #333; font-family: 'Arial', sans-serif;">
-  <!-- LinkedIn -->
-  <div style="display: inline-block; margin-right: 15px;">
-    <a href="enlace_a_tu_perfil_de_linkedin" style="color: #61dafb; text-decoration: none;">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
+  
   
   <!-- Twitter -->
   <div style="display: inline-block; margin-right: 15px;">
